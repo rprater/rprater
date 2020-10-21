@@ -3,8 +3,8 @@
 I am currently studying Engineering at Ryerson Univeristy while looking for my fourth and final internship. On the side I build cool Python projects and research the applications of Machine Learning in Chaos Theory.
 
 ### Follow me here
-<a href="https://www.linkedin.com/in/dylan-roy" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://medium.com/@dylanroy" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/r-prater/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://medium.com/@robcprater" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 ### Things I like to geek out on
  - Coding & Side Projects
