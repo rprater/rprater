@@ -1,6 +1,6 @@
 # Engineer & Research Junkie
 
-I am currently studying Engineering at Ryerson Univeristy while looking for my fourth and final internship. On the side I build cool Python projects and research the applications of Machine Learning in Chaos Theory.
+I am currently studying Engineering at Ryerson Univeristy while looking for my fourth and final internship. On the side I build cool Python projects and research Chaos Theory.
 
 ### Follow me here
 <a href="https://www.linkedin.com/in/r-prater/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -9,7 +9,6 @@ I am currently studying Engineering at Ryerson Univeristy while looking for my f
 ### Things I like to geek out on
  - Coding & Side Projects
  - Machine Learning
- - Chaos Theory
  - AWS CloudFormation Templates (They make life SO MUCH easier)
  - LeetCode
  - Chess
