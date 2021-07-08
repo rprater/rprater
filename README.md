@@ -1,4 +1,4 @@
-# Hi there! My name is Robert, thanks for stopping by 😃
+# Hi there! My name is Robert.
 
 I am currently studying Engineering at Ryerson Univeristy. I have over two years of internship experience working as a Software Engineer and Data Scientist. I have worked for startups such as Balance Accounting and multibillion dollar companies such as Hatch and Magna. I am extremely passionate about programming!
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
