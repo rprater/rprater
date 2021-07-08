@@ -10,7 +10,8 @@ I am currently studying Engineering at Ryerson Univeristy. I have over two years
 <a href="https://medium.com/@robcprater" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 ### Things I like to geek out on
- - Anything written by Martin Fowler
+ - Test Driven Development (It makes life so much easier 😃)
+ - Anything written by <a href='https://martinfowler.com/'>Martin Fowler</a> or <a href='https://www.joelonsoftware.com/'>Joel Spolsky</a> 
  - Machine Learning
  - AWS CloudFormation Templates (They make life SO MUCH easier)
  - Chaos Theory
