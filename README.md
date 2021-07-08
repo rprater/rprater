@@ -10,12 +10,12 @@ I am currently studying Engineering at Ryerson Univeristy. I have over two years
 <a href="https://medium.com/@robcprater" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
 ### Things I like to geek out on
- - Coding & Side Projects
+ - Anything written by Martin Fowler
  - Machine Learning
  - AWS CloudFormation Templates (They make life SO MUCH easier)
- - LeetCode
+ - Chaos Theory
  - Chess
- - Cars & Motorcycles (Especially if its a 69 Mustang or a Triumph)
+ - Nachos
 
 ### Favorite Technologies To Work With
 Python, Java, JavaScript, AWS, Docker, Flask, SQLAlchemy, PostgreSQL, Vue
