@@ -1,7 +1,6 @@
-# Engineer & Research Junkie
+# Hey! I'm Robert, thanks for checking me out 😃
 
-I am currently studying Engineering at Ryerson Univeristy while looking for my fourth and final internship. On the side I build cool Python projects and research Chaos Theory.
-
+I am currently studying Engineering at Ryerson Univeristy. I have over two years of internship experience working as a Software Engineer and Data Scientist. I have worked for startups such as Balance Accounting and multibillion dollar companies such as Hatch and Magna. I am extremely passionate about programming!
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 ### Follow me here
