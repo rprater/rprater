@@ -16,7 +16,7 @@ I am currently studying Engineering at Ryerson Univeristy. I have over two years
  - AWS CloudFormation Templates (Again, it makes life SO MUCH EASIER 😄)
  - Chaos Theory
  - Chess
- - Nachos 😋
+ - Nachos
 
 ### Tech Stack
 
