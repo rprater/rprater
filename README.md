@@ -16,7 +16,7 @@ I am currently studying Engineering at Ryerson Univeristy. I have over two years
  - AWS CloudFormation Templates (Again, it makes life SO MUCH EASIER 😄)
  - Chaos Theory
  - Chess
- - 1967 Mustang (AKA Elanor, I am guessing no one from my generation got that 😄)
+ - 1967 Mustang (AKA Elanor)
 
 ### Tech Stack
 
