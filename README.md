@@ -18,7 +18,7 @@ I am currently studying Engineering at Ryerson Univeristy. I have over two years
  - Chess
  - Nachos 😋
 
-### 🛠 Tech Stack
+### Tech Stack
 
 - 💻 &nbsp; Python | Dart | Java | C++  
 - 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
