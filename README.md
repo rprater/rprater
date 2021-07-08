@@ -18,8 +18,15 @@ I am currently studying Engineering at Ryerson Univeristy. I have over two years
  - Chess
  - Nachos 😋
 
-### Favorite Technologies To Work With
-Python, Java, JavaScript, AWS, Docker, Flask, SQLAlchemy, PostgreSQL, Vue
+### 🛠 Tech Stack
+
+- 💻 &nbsp; Python | Dart | Java | C++  
+- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | Firebase | Xampp
+- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+
+<br>
 
 ### Stories by Robert Prater on Medium
  - [What I learned From Doing 100 LeetCode Questions](https://medium.com/@robcprater/what-i-learned-from-doing-100-leetcode-questions-c44537cd1d6d?source=rss-3fcc6c71db0------2)<hr>
