@@ -20,11 +20,9 @@ I am currently studying Engineering at Ryerson Univeristy. I have over two years
 
 ### Tech Stack
 
-- 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 💻 &nbsp; Python | JavaScript | SQL
+- 🌐 &nbsp; HTML | CSS | Vue | React | Bootstrap | Tailwind
+- 🛢 &nbsp; PostgreSQL | MongoDB
 
 <br>
 
