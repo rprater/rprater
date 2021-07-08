@@ -13,10 +13,10 @@ I am currently studying Engineering at Ryerson Univeristy. I have over two years
  - Test Driven Development (It makes life so much easier 😃)
  - Anything written by <a href='https://martinfowler.com/'>Martin Fowler</a> or <a href='https://www.joelonsoftware.com/'>Joel Spolsky</a> 
  - Machine Learning
- - AWS CloudFormation Templates (They make life SO MUCH easier)
+ - AWS CloudFormation Templates (Again, it makes life SO MUCH EASIER 😄)
  - Chaos Theory
  - Chess
- - Nachos
+ - Nachos 😋
 
 ### Favorite Technologies To Work With
 Python, Java, JavaScript, AWS, Docker, Flask, SQLAlchemy, PostgreSQL, Vue
