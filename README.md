@@ -1,6 +1,6 @@
 # Hi there! My name is Robert.
 
-I am currently studying Engineering at Ryerson Univeristy. I have over two years of internship experience working as a Software Engineer and a Data Scientist. I have worked for startups such as Balance Accounting and multibillion dollar companies such as Hatch and Magna. Most importantly, I love to program!
+I am currently studying Engineering at Ryerson Univeristy. I have over two years of internship experience working as a Software Engineer and a Data Scientist. I have worked for startups such as Balance Accounting and multi-billion dollar companies such as <a href='https://hatch.com'>Hatch</a> and <a href='https://magna.com'>Magna</a>. Most importantly, I love to program!
 
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
