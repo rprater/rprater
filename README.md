@@ -9,20 +9,10 @@ I am a Software Engineer as well as a <a href='https://aws.amazon.com/certificat
 <a href="https://www.linkedin.com/in/r-prater/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@robcprater" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
-### Things I like to geek out on
- - Test Driven Development (It makes life so much easier 😃)
- - Anything written by <a href='https://martinfowler.com/'>Martin Fowler</a> or <a href='https://www.joelonsoftware.com/'>Joel Spolsky</a> 
- - Machine Learning
- - AWS CloudFormation Templates (Again, it makes life SO MUCH EASIER 😄)
- - Chaos Theory
- - Chess
- - 1967 Mustang (AKA Elanor)
-
 ### Tech Stack
 
-- 💻 &nbsp; Python | JavaScript | SQL
-- 🌐 &nbsp; HTML | CSS | Vue | React | Bootstrap | Tailwind
-- 🛢 &nbsp; PostgreSQL | MongoDB
+- 💻 &nbsp; Python | Java | JavaScript
+- 🛢 &nbsp; PostgreSQL | MongoDB | DynamoDB | Amazon Aurora
 
 <br>
 
