@@ -14,6 +14,11 @@ I am a Software Engineer as well as a <a href='https://aws.amazon.com/certificat
 - 💻 &nbsp; Python | Java | JavaScript
 - 🛢 &nbsp; PostgreSQL | MongoDB | DynamoDB | Amazon Aurora
 
+### Recommended Programming Books
+- <a href='https://martinfowler.com/articles/refactoring-2nd-ed.html'>Refactoring</a> by Martin Fowler
+- <a href='[https://martinfowler.com/articles/refactoring-2nd-ed.html](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)'>Design Data Intensive Applications</a> by Martin Kleppmann
+- <a href='[https://martinfowler.com/articles/refactoring-2nd-ed.html](https://www.oreilly.com/library/view/clean-code-a/9780136083238/)'>Clean Code</a> by Robert Cecil Martin
+
 <br>
 
 ### Stories by Robert Prater on Medium
