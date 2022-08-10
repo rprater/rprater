@@ -8,11 +8,6 @@ I am a Senior Software Engineer at <a href="https://www.td.com/ca/en/about-td/">
 <a href="https://www.linkedin.com/in/r-prater/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@robcprater" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 
-### Tech Stack
-
-- 💻 &nbsp; Python | Java | JavaScript
-- 🛢 &nbsp; PostgreSQL | MongoDB | DynamoDB | Amazon Aurora
-
 ### Recommended Programming Books
 - <a href='https://martinfowler.com/articles/refactoring-2nd-ed.html'>Refactoring</a> by Martin Fowler
 - <a href='[https://martinfowler.com/articles/refactoring-2nd-ed.html](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)'>Design Data Intensive Applications</a> by Martin Kleppmann
