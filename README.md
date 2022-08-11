@@ -1,4 +1,4 @@
-# Hi there, my name is Robert!
+# Hello, I'm Robert!
 
 I am a Senior Software Engineer at <a href="https://www.td.com/ca/en/about-td/">Toronto-Dominion Bank</a> as well as a <a href='https://aws.amazon.com/certification/certified-solutions-architect-associate/'>AWS Certified Solutions Architect Associate</a> who studied Engineering at Ryerson Univeristy. I have over four years of experience working as a Software Engineer. I have worked for startups and multi-billion dollar companies such as <a href='https://hatch.com'>Hatch</a> and <a href='https://magna.com'>Magna</a>. Most importantly, I love to program!
 
