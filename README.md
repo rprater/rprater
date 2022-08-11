@@ -1,6 +1,6 @@
 # Hello, I'm Robert!
 
-I am a Senior Software Engineer at <a href="https://www.td.com/ca/en/about-td/">Toronto-Dominion Bank</a>. I have worked for startups and multi-billion dollar companies such as <a href='https://hatch.com'>Hatch</a> and <a href='https://magna.com'>Magna</a>. Most importantly, I love to program!
+I am a Senior Software Engineer at <a href="https://www.td.com/ca/en/about-td/">Toronto-Dominion Bank</a> who studied engineering at <a href="https://www.torontomu.ca/">Toronto Metropolitan University</a>. I have worked as an engineer for startups and billion dollar companies such as <a href='https://hatch.com'>Hatch</a> and <a href='https://magna.com'>Magna</a>. Most importantly, I love to program!
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
