@@ -2,7 +2,7 @@
 
 I am a Senior Software Engineer at <a href="https://www.td.com/ca/en/about-td/">Toronto-Dominion Bank</a> who studied engineering at <a href="https://www.torontomu.ca/">Toronto Metropolitan University</a>. I have worked as an engineer for startups and billion dollar companies such as <a href='https://hatch.com'>Hatch</a> and <a href='https://magna.com'>Magna</a>. Most importantly, I love to program! See below for my favourite programming languages, technologies and cloud platforms.
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 ### Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' height='30'/> <img src= 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' height='30'/>
