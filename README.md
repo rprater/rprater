@@ -4,7 +4,7 @@ I am a Senior Software Engineer at <a href="https://www.td.com/ca/en/about-td/">
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
-### Programming Languages
+### Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' height='30'/> <img src= 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' height='30'/> <img src='https://cdn-icons-png.flaticon.com/128/2772/2772128.png' height='30'/>
 
 
