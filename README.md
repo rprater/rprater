@@ -7,8 +7,12 @@ I am a Senior Software Engineer at <a href="https://www.td.com/ca/en/about-td/">
 ### Programming Languages
 <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' height='30'/> <img src= 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' height='30'/>
 
+
+
  ### Technologies
- <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' height='30'/> <img src='https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png' height='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' height='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/nodejs.svg' height='30'/> <img src='https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png' height='30'/>
+ <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' height='30'/> <img src='https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png' height='30'/> <img src='https://cdn-icons-png.flaticon.com/128/2772/2772128.png' height='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' height='30'/> <img src='https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png' height='30'/> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png?20170919082558' height='28'/> <img src='https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png' height='30'/> 
+ 
+
 
 ### Cloud Platforms
 <img src='https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg' height='30'/> &nbsp; <img src='https://cdn.worldvectorlogo.com/logos/microsoft-azure-2.svg' height='25'/> &nbsp; <img src='https://cdn.worldvectorlogo.com/logos/google-cloud-3.svg' height='25'/>
