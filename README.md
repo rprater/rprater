@@ -13,7 +13,7 @@ I am a Senior Software Engineer at <a href="https://www.td.com/ca/en/about-td/">
 
 
 ### Cloud Platforms
-<img src='https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg' height='30'/> &nbsp; <img src='https://cdn.worldvectorlogo.com/logos/microsoft-azure-2.svg' height='25'/> &nbsp; <img src='https://cdn.worldvectorlogo.com/logos/google-cloud-3.svg' height='25'/>
+<img src='https://cdn.worldvectorlogo.com/logos/amazon-web-services.svg' height='30'/> &nbsp; <img src='https://cdn.worldvectorlogo.com/logos/microsoft-azure-2.svg' height='25'/>
 
 
 ### Follow Me Here
