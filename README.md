@@ -5,11 +5,11 @@ I am a Senior Software Engineer at <a href="https://www.td.com/ca/en/about-td/">
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="400"/>
 
 ### Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' height='30'/> <img src= 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' height='30'/> <img src='https://cdn-icons-png.flaticon.com/128/2772/2772128.png' height='30'/>
+<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' height='30'/> <img src= 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' height='30'/>
 
 
  ### Technologies
- <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' height='30'/> <img src='https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png' height='30'/> <img src='https://wiki.postgresql.org/images/thumb/a/a4/PostgreSQL_logo.3colors.svg/116px-PostgreSQL_logo.3colors.svg.png' height='30'/> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/230px-Tensorflow_logo.svg.png?20170429160244' height='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/flask.png' height='30'/> <img src='https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png' height='30'/> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png?20170919082558' height='28'/> <img src='https://seeklogo.com/images/A/angular-logo-B76B1CDE98-seeklogo.com.png' height='30'/> 
+ <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' height='30'/> <img src='https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png' height='30'/> <img src='https://wiki.postgresql.org/images/thumb/a/a4/PostgreSQL_logo.3colors.svg/116px-PostgreSQL_logo.3colors.svg.png' height='30'/> <img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png' height='32'/> <img src='https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png' height='30'/> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png?20170919082558' height='28'/>
 
 
 ### Cloud Platforms
