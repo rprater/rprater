@@ -9,7 +9,8 @@ I am a Software Engineer at <a href="https://www.td.com/ca/en/about-td/">Toronto
 
 
  ### Technologies
- <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' height='30'/> <img src='https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png' height='30'/> <img src='https://wiki.postgresql.org/images/thumb/a/a4/PostgreSQL_logo.3colors.svg/116px-PostgreSQL_logo.3colors.svg.png' height='30'/> <img src='https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png' height='32'/> <img src='https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png' height='30'/> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png?20170919082558' height='28'/>
+ 
+<img src='https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg' height='30'/> <img src='https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png' height='30'/> <img src='https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png' height='30'/> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png?20170919082558' height='28'/>
 
 
 ### Cloud Platforms
