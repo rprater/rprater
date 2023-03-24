@@ -9,7 +9,7 @@ I am a Software Engineer at <a href="https://www.td.com/ca/en/about-td/">Toronto
 
 
  ### Technologies
-<img src='https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg' height='30'/> <img src='https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png' height='30'/> <img src='https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png' height='30'/> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png?20170919082558' height='28'/> <img src='https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg' height='30'/> <img src='https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg' height='30'/>
+<img src='https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg' height='30'/> <img src='https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png' height='30'/> <img src='https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-1024.png' height='30'/> <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1024px-Vue.js_Logo_2.svg.png?20170919082558' height='28'/> <img src='https://upload.wikimedia.org/wikipedia/commons/3/38/Hadoop_logo_new.svg' height='30'/> <img src='https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg' height='30'/>
 
 
 ### Cloud Platforms
